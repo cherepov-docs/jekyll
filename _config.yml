@@ -1,0 +1,8 @@
+name: "Сайт блога на Jekyll"
+description: "Описание блога"
+meta_description: "Сайт блога на Jekyll, Описание блога"
+domain_name: 'https://example.com'
+permalink: /:title
+logo: false
+baseurl: /
+exclude: [.idea]
